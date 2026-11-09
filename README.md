@@ -1,5 +1,5 @@
 <h1 align="center">
-  🏮 Template Kodingan Bot Discord - By ItzAurel 🏮
+  🏮 Template Bot Discord - By ItzAurel 🏮
 </h1>
 
 <p align="center">
@@ -31,9 +31,9 @@ Halo gusy! Ini adalah sebuah template codingan yang dibuat untuk bot discord ber
 
 ### 1. Persyaratan ⚙️
 Pastikan sudah terinstal:
-* [Node.js v16.x atau lebih baru](https://nodejs.org/)
-* [Git](https://git-scm.com/)
-* [MongoDB](https://www.mongodb.com/) (Untuk database)
+[Node.js v16.x atau lebih baru](https://nodejs.org/)
+[Git](https://git-scm.com/)
+[MongoDB](https://www.mongodb.com/) untuk database
 
 ### 2. Kloning Repositori 📂
 ```bash
