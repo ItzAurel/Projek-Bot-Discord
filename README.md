@@ -31,9 +31,9 @@ Halo gusy! Ini adalah sebuah template codingan yang dibuat untuk bot discord ber
 
 ### 1. Persyaratan ⚙️
 Pastikan sudah terinstal:
-[Node.js v16.x atau lebih baru](https://nodejs.org/)
-[Git](https://git-scm.com/)
-[MongoDB](https://www.mongodb.com/) untuk database
+* [Node.js v16.x atau lebih baru](https://nodejs.org/)
+* [Git](https://git-scm.com/)
+* [MongoDB](https://www.mongodb.com/) untuk database
 
 ### 2. Kloning Repositori 📂
 ```bash
