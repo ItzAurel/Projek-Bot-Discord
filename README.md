@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <strong>Bot Discrod Khusus Private Server, Dirancang Untuk Penggunaan Pribadi yh... Bukan Public :v</strong>
+  <strong>Open Source Discord Bot with Java Script</strong>
 </p>
 
 --- 
 
 ## 🚀 Perkenalan
-Halo bg! **TawBot** adalah bot Discord pribadi yang dibangun menggunakan **discrod.js!**. Dibuat oleh anak kemaren sore yg baru aja pegang **vsCode** 4 bulan, ya wajarin kalo lu liatnya aga-aga, wong aku aja masih pemula kok 
+Halo gusy! Ini adalah sebuah template codingan yang dibuat untuk bot discord bersekala kecil hingga menengah. Untuk cara pemasangannya bisa dilihat pada bagian <strong>📖 Tutorial Cara Pasang & Menjalankan</strong>
 
 ## 📊 Informasi Bot
 * **Versi saat ini**: `v25.12.2` (Latest)
@@ -61,9 +61,9 @@ Jika kamu coba kembangin botnya sendiri, lalu menemui command yg dobel/ganda, ka
 ```Bash
 node reset-command.js
 ```
-ini buat hapus semua slash command yg terdaftar, lalu daftarin ulang menggunakan tutorial di nomor **4** yh
+ini buat hapus semua slash command yangg terdaftar, lalu daftarin ulang menggunakan tutorial di nomor **4** yh
 
 ---
 <h3 align="center">📜 Lisensi</h3>
-<p align="center">Proyek ini menggunakan lisensi GPL-3.0. Kamu bebas edit dan kembangkan lagi kodingannya! (kecuali buat bitma)</p>
-<p align="center"> Dibuat dengan ❤️ oleh <b>Pesatir_Handal</b> </p>
+<p align="center">Proyek ini menggunakan lisensi GPL-3.0. Kamu bebas edit dan kembangkan lagi kodingannya! (kecuali buat karbit)</p>
+<p align="center"> Dibuat dengan ❤️ oleh <b>ItzAurel</b> </p>
