@@ -1,5 +1,5 @@
 <h1 align="center">
-  🏮 TawBot - By ItzAurel 🏮
+  🏮 Template Kodingan Bot Discord - By ItzAurel 🏮
 </h1>
 
 <p align="center">
