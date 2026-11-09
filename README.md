@@ -37,8 +37,8 @@ Pastikan sudah terinstal:
 
 ### 2. Kloning Repositori 📂
 ```bash
-git clone [https://github.com/ItzAurel/Projek-Bot-Discord.git](https://github.com/ItzAurel/Projek-Bot-Discord.git)
-cd Bot-Discord
+git clone https://github.com/ItzAurel/Projek-Bot-Discord.git
+cd Projek-Bot-Discord
 ```
 
 ### 3. Instal Dependensi 📦
