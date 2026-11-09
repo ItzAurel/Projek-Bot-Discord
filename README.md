@@ -37,7 +37,7 @@ Pastikan sudah terinstal:
 
 ### 2. Kloning Repositori 📂
 ```bash
-git clone [https://github.com/ItzAurel/Bot-Discord.git](https://github.com/ItsLiyd/Bot-Discord.git)
+git clone [https://github.com/ItzAurel/Bot-Discord.git](https://github.com/ItzAurel/Bot-Discord.git)
 cd Bot-Discord
 ```
 
